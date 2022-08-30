@@ -1,0 +1,99 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    color: black;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    opacity: 0.8;
+    margin: 0 auto;
+    margin-top: 40px;
+    position: relative;
+    border-radius: 10px;
+}
+#main{
+    width: 150px;
+    height: 150px;
+    border: 1px solid white;
+    border-radius: 80px;
+    margin: auto;
+    padding: 18%;
+    position: absolute;
+    margin: 70px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #fff;
+}
+
+.btn{
+    padding: 254px 140px;
+    display: flex;
+    
+}
+.btn1{
+    margin-right: 40px;
+    border-radius: 5px;
+
+}
+.btn2{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+/* .container {
+    width: 100%;
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    background-color: #000;
+    opacity: 0.8;
+    margin-top: 70px;
+    height: 320px;
+    border-radius: 10px;
+}
+p#value {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    padding: 68px;
+    font-size: 18px;
+    width: 100%;
+    max-width: 57%;
+    margin: 0 auto;
+}
+.main {
+    margin: 25px 0;
+}
+button.btn1 {
+    margin-left: -34px;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 10px 15px;
+    border: 1px solid white;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+}
+button.btn2 {
+    margin-left: 30px;
+    border-radius: 50%;
+    font-size: 18px;
+    padding: 10px 15px;
+    border: 1px solid white;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+} */
